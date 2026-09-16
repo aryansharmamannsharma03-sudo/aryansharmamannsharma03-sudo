@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Aryan Sharma
 
-<!--
-**aryansharmamannsharma03-sudo/aryansharmamannsharma03-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Software Developer | 🤖 AI & Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm currently learning programming and building projects to turn what I learn into real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+* C++
+* Python
+* Git & GitHub
+* JavaScript
+* AI & APIs
+
+### 🛠️ Projects
+
+* **Fixly AI** — AI-powered problem analysis app
+* More projects coming soon... 🚀
+
+### 📫 Connect With Me
+
+* Instagram
+* LinkedIn
+* YouTube
+
+> **Learning by building. Growing one project at a time. 🚀**
