@@ -19,8 +19,8 @@ I'm currently learning programming and building projects to turn what I learn in
 
 ### 📫 Connect With Me
 
-* Instagram
-* LinkedIn
-* YouTube
+* 💼 [LinkedIn](https://www.linkedin.com/in/aryan-sharma-065684421/)
+* 📸 [Instagram](https://www.instagram.com/ig_mr_terrific/)
+* ▶️ [YouTube](https://www.youtube.com/@AryanSharma-45.03)
 
 > **Learning by building. Growing one project at a time. 🚀**
